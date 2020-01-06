@@ -1,4 +1,4 @@
-package DsDec.class2;
+package class2;
 
 import java.util.*;
 
@@ -17,10 +17,10 @@ public class p5 {
 				j++;
 			}
 			while (j < (dot + star)) {
-				System.out.print("* ");
+				System.out.print("*");
 				j++;
 			}
-			if (i >= (n-1) ) {
+			if (i >= (n-1)) {
 				star -= 2;
 				dot += 1;
 			} else {

@@ -33,5 +33,6 @@ public class p7_H_GCD {
 		int g = Gcd(a,b) ;
 		int L = (a*b)/g;
 		return(L);
+
 	}
 }
